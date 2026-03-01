@@ -79,6 +79,6 @@ AI-100GP/
 ---
 
 ## Team Members
-- [Add names here]
+- Devin Myers, Vina Dang
 
 **Course:** AI 100 | **Submitted:** March 2026
