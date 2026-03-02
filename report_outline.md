@@ -1,7 +1,6 @@
 # EmotiScan: Real-Time Facial Emotion Recognition Using Deep Learning
 ### AI 100 — Midterm Project Report
-**Team Members:** [Name 1], [Name 2], [Name 3], [Name 4], [Name 5]
-
+**Team Members:** [Devin Myers]
 ---
 
 ## 1. Problem Definition and Dataset Curation (25 pts)
